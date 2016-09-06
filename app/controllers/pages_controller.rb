@@ -5,6 +5,4 @@ class PagesController < ApplicationController
   def concept
   end
 
-  def campagne
-  end
 end
